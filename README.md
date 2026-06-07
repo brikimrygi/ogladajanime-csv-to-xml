@@ -1,3 +1,8 @@
+> **Disclaimer**
+>
+> This project was created primarily as an experiment to test how capable AI is at generating scripts of this complexity.
+> The code was generated with AI assistance and was originally intended for personal use.
+
 ---
 
 # Konwerter listy z ogladajanime.pl na MyAnimeList
