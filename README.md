@@ -1,5 +1,3 @@
-Oto wersja przygotowana bezpośrednio do wklejenia do pliku `README.md` w repozytorium na GitHubie – bez emotikonów, sformatowana w czystym stylu Markdown.
-
 ---
 
 # Konwerter listy z ogladajanime.pl na MyAnimeList
